@@ -78,6 +78,3 @@ To manage a DevOps project using Git best practices and understand version contr
 
 ---
 
-### 📜 Submission Guidelines
-- Time Window: 10:00 AM – 10:00 PM.
-- Submit GitHub repo link with all code, commits, screenshots, and README.
